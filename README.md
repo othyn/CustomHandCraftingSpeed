@@ -11,6 +11,9 @@ Mod can be downloaded via any of these:
 - A build can be found in the repo's `/dist` directory.
 
 ## Changelog
+1.0.2:
+- Fixed bug with modifiers >=10
+
 1.0.1:
 - Added ludicrous multipliers
 
