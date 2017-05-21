@@ -13,5 +13,6 @@ Mod can be downloaded via any of these:
 ## Changelog
 1.0.1:
 - Added ludicrous multipliers
+
 1.0.0:
 - Initial release
