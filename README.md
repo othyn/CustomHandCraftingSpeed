@@ -3,7 +3,7 @@ Factorio mod to allow for custom hand crafting speeds.
 
 ![Image of hand crafting mod settings pane](icon.PNG)
 
-Defaults to disabled (no modifier), but allows you to configure it anywhere from 2x (double time) to 8x (bloody insane).
+Defaults to disabled (no modifier), but allows you to configure it anywhere from 2x (double time) to 128x (just absolutely bloody insane).
 
 Mod can be downloaded via any of these:
 - In game through the mod menu (best option)
@@ -11,5 +11,7 @@ Mod can be downloaded via any of these:
 - A build can be found in the repo's `/dist` directory.
 
 ## Changelog
+1.0.1:
+- Added ludicrous multipliers
 1.0.0:
 - Initial release
