@@ -1,4 +1,4 @@
-# CustomHandCraftingSpeed
+# Custom Hand Crafting Speed
 Factorio mod to allow for custom hand crafting speeds.
 
 ![Image of hand crafting mod settings pane](icon.PNG)
